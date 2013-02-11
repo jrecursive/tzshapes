@@ -38,5 +38,5 @@ The tz_world shapefile captures the boundaries of the TZ timezones across the wo
 
 The tz_world_mp shapefile captures the same boundaries. The geometries are either POLYGONs or MULTIPOLYGONs, and there is a single geometry for each TZ timezone. There are 394 rows.
 
-
+* CC0 http://creativecommons.org/choose/zero/ (per the source data)
 
